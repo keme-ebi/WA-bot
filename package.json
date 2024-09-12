@@ -1,0 +1,17 @@
+{
+  "name": "wa-bot2",
+  "version": "1.0.0",
+  "description": "whatsapp bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keme-ebi",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "express": "^4.19.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
